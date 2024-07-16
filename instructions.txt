@@ -1,0 +1,27 @@
+1. Download and isntall GIT first https://git-scm.com/
+2. once GIT is install, reload the Visual Studio to recongnied the new Git install
+3. install the git bash plugin
+4. now initialized the source control to Git(login and grant access to your local VS code)
+
+working with GIT BASH:
+
+1. Creating a folder using MKDIR command:
+Mkdir 'Folder name'
+
+2. create a file using the TOUCH Command:
+TOUCH 'File name[.]extension of the file'
+
+3. Now allow GIT to track the file by using the GIT ADD 'File name" command
+
+
+For Git to accepts the commit and status, etc. commands from Bash shell, you have to set your identity:
+Step 1:
+ 
+you must first set these global variables:
+1. git config --global user.email "email@example.com"
+2. git config --global user.name  "Username"
+
+Step 2:
+1. using the Linux command TOUCH "file name with extension" to create a new file
+2. use VIM or NANO to edit the file
+3. to view the content of the file, use the CAT command: CAT 'Filename'
