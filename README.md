@@ -1,6 +1,8 @@
 ## Welcome to ObiWanCloud Project:
 Hello and welcome to the ObiWanCloud Project! This repository is dedicated to documenting my journey through the Microsoft Azure learning path. My goal is to gain a strong foundation in cloud computing and share my progress, insights, and resources with the community. We will go from setting up the basic environment to learning the Fundamentals, then will move to creating a project, be a Developer, do some DevOps, and eventually move to Solution Architect.
 
+![alt text](Azure_road_map.png)
+
 ## What You'll Find Here
 Learning Progress: Regular updates on the modules and topics I've covered.
 Notes and Summaries: Detailed notes and summaries of key concepts.
