@@ -18,7 +18,7 @@ make you sign up for Microsoft training and follow the training for AZ-900
 Shell:
 ![alt text](shell_view.png)
 
-on Port 80:
+once you have successfully setup finish the steps from the module, Port 80 will will show the HTML text:
 ![alt text](vm_por80.png)
 
 # login to the Azure Portal:
