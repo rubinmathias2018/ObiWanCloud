@@ -20,7 +20,8 @@ you must first set these 2 global variables:
 ## GIT INIT: Git initialization
 git init
 
-# Step 2(This is to force you to use terminal commands instead of using GUI to create files and folder):
+# Step 2
+(This is to force you to use terminal commands instead of using GUI to create files and folder):
 1. using the Linux command TOUCH "file name with extension" to create a new file
 2. use VIM or NANO editor to edit the file, or just used the VS code editor
 3. to view the content of the file, use the CAT command: CAT 'Filename'
@@ -39,7 +40,8 @@ mv obiwancloud ObiWanCloud (mv 'old_folder' 'New_folder')
 TOUCH LICENSE (TOUCH 'File name[.]extension of the file')
 ![alt text](create_license.png)
 
-# 3. GIT ADD: Now allow GIT to track the file by using the GIT ADD 'File name" command to track individual file to track or 'GIT ADD .' to track everything in the directory
+# 3. GIT ADD: 
+Now allow GIT to track the file by using the GIT ADD 'File name" command to track individual file to track or 'GIT ADD .' to track everything in the directory
 ![alt text](track_folder.png)
 
 
@@ -48,3 +50,4 @@ git status
 ![alt text](track_folder.png)
 
 ## GIT COMMIT
+git commit -m " Description"
