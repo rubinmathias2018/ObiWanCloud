@@ -7,7 +7,7 @@ make you sign up for Microsoft training and follow the training for AZ-900
 - wait for the Azure Cloud Shell to load
 # CHANGING BASH PROMPT
 - update the command below and replace *YOUR NICKNAME GOES HERE* with your nickname or username you want.
-- PS1="\[\033[01;32m\]*YOUR NICKNAME GOES HERE*@Azure\[\033[01;37m\]:~$ "
+- PS1="\[\033[01;32m\]"YOUR NICKNAME GOES HERE"*@Azure\[\033[01;37m\]:~$ "
 ![alt text](Azure_bash.png)
 ## CREATING YOUR FIRST VM
 
