@@ -30,7 +30,7 @@ git init
 ## working with GIT BASH:
  
 # 1. Creating a folder using MKDIR command:
--mkdir obiwancloud (Mkdir 'Folder name')
+- mkdir obiwancloud (Mkdir 'Folder name')
 ![alt text](create_folder.png)
 - A. rename the folder if you make a mistake
 mv obiwancloud ObiWanCloud (mv 'old_folder' 'New_folder')
